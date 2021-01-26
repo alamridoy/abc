@@ -1,5 +1,1 @@
-<<<<<<< HEAD
- this is master conficts
-=======
 merge conflict will heppend
->>>>>>> branch1
